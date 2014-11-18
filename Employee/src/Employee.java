@@ -7,7 +7,6 @@ public class Employee {
       myName = name;
       mySalary = salary;
    }
-// Nous comentaris
    public String getName() {
       return myName;
    }
